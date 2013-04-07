@@ -1,0 +1,116 @@
+body {
+    background-color:#fff;
+    font-family:        "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size:          150%;
+}
+
+h2 {
+    font-size:          125%;
+}
+
+h3 {
+    font-size:          115%;
+}
+
+.allcontent {
+    width:              800px;
+    padding-top:        5px;
+    padding-bottom:     5px;
+    background:         fff;
+    font-size:          medium;
+}
+
+.banner {
+    text-align:         center;
+}
+
+.nav{
+    display:            table;
+    height:             25px;
+    width:              100%;
+    margin-bottom:      10px;    
+    padding-left:       0px;
+}
+
+.nav li{
+    display:            table-cell;
+    height:             25px;
+    line-height:        25px;
+    text-align:         center;
+    background:         #cae4ff;
+    border-right:       1px solid #fff;
+    white-space:        nowrap;
+}
+
+.events-head{
+    float:              right;
+    width:              50%;
+    background:         #cae4ff;
+    text-align:         center;
+}
+
+.news-head{
+    float:              left;
+    width:              50%;
+    background:         #cae4ff;
+    text-align:         center;
+}
+
+
+.news-events-head{
+    display:            table;
+    height:             25px;
+    width:              50%;
+    padding-left:       0px;
+}
+
+.news-events-head li{
+    display:            table-cell;
+    height:             25px;
+    line-height:        25px;
+    text-align:         center;
+    background:         #cae4ff;
+    border-right        1px solid #f6ffb0;
+    white-space         nowrap;
+}
+
+.news{
+    float:              left;
+    width:              400px;
+    background:         #f6ffb0;
+}
+
+.events{
+    float:              right;
+    width:              400px;
+    background:         #f6ffb0;
+    text-align:         center;
+}
+
+.events ul{
+    list-style-type:    none;
+}
+
+.carousel {
+    width:              550px;
+    float:              right;
+}
+
+.announce-contact {
+
+    width:              225px;
+    background:         #aab26a;
+    border:             1px solid #b27772;
+}
+
+.announce-contact h1, h2 {
+    color:              #f6ffb0;
+}
+
+.announce-contact ul {
+    font-size:          medium;
+}
+
